@@ -40,15 +40,16 @@ Usage
 	•	Click the “Reset” button to reset the counter to 0.
 
  Project Structure
-  ├── index.html        # The main HTML structure of the app
-  ├── styles.css        # The CSS file for styling the app
-  ├── script.js         # JavaScript file for counter logic
-  └── README.md         # Project documentation
+  
+├── index.html        # The main HTML structure of the app
+├── styles.css        # The CSS file for styling the app
+├── script.js         # JavaScript file for counter logic
+└── README.md         # Project documentation
 
 Technologies Used
-  •	HTML5: For structuring the webpage.
-	•	CSS3: For styling the user interface.
-	•	JavaScript: For interactivity and DOM manipulation.
+• HTML5: For structuring the webpage.
+• CSS3: For styling the user interface.
+• JavaScript: For interactivity and DOM manipulation.
 
 
 
